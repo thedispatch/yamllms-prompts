@@ -15,8 +15,6 @@ Below is the dataset you requested most recently. You are to assess this dataset
 5. A very brief summary of your overall findings so far.
 6. A Boolean value indicating whether your analysis is complete.
 
-Note that you will only have the ability to inspect %s files or datasets, so be sure to choose those most likely to be significant.
-
 You have been provided with a function, detective_report, to use to generate your response in a JSON format.
 
 ## Available Data
@@ -34,6 +32,10 @@ In addition, the following source code files are available:
 ## Your Work So Far
 
 You have previously summarized the following datasets:
+
+%s
+
+and the previous files:
 
 %s
 
