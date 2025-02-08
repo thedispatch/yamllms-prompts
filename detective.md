@@ -19,13 +19,15 @@ You have been provided with a function, detective_report, to use to generate you
 
 ## Available Data
 
-Data is available from these project tools:
+The following datasets are available to you:
 
 %s
 
-More specifically, the following datasets are available:
+In addition, the following source code files are available:
 
 %s
+
+(Any other source code files referred to within datasets are most likely also available to you.)
 
 ## Your Work So Far
 
